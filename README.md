@@ -1,4 +1,8 @@
-# News Front Page — Tuesday 17 November 2026
+# news-front-page-20261117
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/kenthu71/news-front-page-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/kenthu71/news-front-page-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 A make.fun bounty entry for **news-image-20261117** ("Sum up 17 November's
 world news in one image"). The entry is a single 1024×1024 newspaper front
@@ -6,6 +10,14 @@ page that sums up the world's news of Tuesday 17 November 2026: 3 lead
 stories with original illustrations, 12 secondary stories, a stat strip of
 the day's key numbers, a world map with pins for stories 1–15, and a
 numbered "Also on Tuesday" list that brings the total to 48 stories.
+
+## Run it
+
+```sh
+node main.ts
+```
+
+`main.ts` writes the front page to `/output/entry.png`.
 
 ## How it works
 
@@ -32,3 +44,7 @@ footer.
 ## License
 
 MIT — see `LICENSE`. The front-page artwork and text are original.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
